@@ -19,4 +19,5 @@ For detailed explanation on how things work, consult the [docs for vue-loader](h
 
 
 ![Image text](https://raw.githubusercontent.com/yangnannba/vue-bilibili/master/img/1.jpg)
+
 ![Image text](https://raw.githubusercontent.com/yangnannba/vue-bilibili/master/img/2.jpg)
